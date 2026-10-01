@@ -26,11 +26,11 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Objeto estudado: `[Acessibilidade para pessoas com deficiência visual em sites e aplicativos móveis]`
 - Contexto ou aplicação: `[Plataformas digitais utilizadas para educação, serviços e comunicação]`
 - Aspecto que será analisado: `[A importância do uso de leitores de tela, textos alternativos e navegação acessível para promover a inclusão digital]`
-- O que ficará fora do estudo: `[A acessibilidade voltada para deficiências auditivas, motoras e cognitivas, bem como a acessibilidade em espaços físicos]`
+- O que ficará fora do estudo: `[A acessibilidade para pessoas com deficiências auditivas, motoras e cognitivas]`
 
 ### Justificativa
 
-`[A acessibilidade digital é importante porque permite que pessoas com deficiência visual participem da sociedade de forma mais independente, tendo acesso à informação, à educação e aos serviços disponíveis na internet. Muitas vezes, pequenos recursos, como descrições de imagens e compatibilidade com leitores de tela, fazem uma grande diferença na experiência do usuário.]`
+`[Por que é essencial? A acessibilidade digital é crucial porque possibilita para que os indivíduos com deficiência visual se adaptem à sociedade de maneira mais natural, tendo acesso à informação, à educação e aos conteúdos disponíveis na internet.] A descrição de imagens e a compatibilidade com leitores de tela, muitas vezes, fazem toda a diferença na experiência do usuário.]`
 
 ### Viabilidade
 
@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Pedro de Oliveira]` | `[Pesquisa]` |
+| `[Pedro de Oliveira, Rafael Y]` | `[Pesquisa]` |
