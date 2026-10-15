@@ -9,7 +9,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[SOUSA, Antônio Willas Sales; CHAVES, Maria Auxiliadora de Oliveira; OLIVEIRA, Adonias Caetano de; LIMA, Marcos Vinicius de Andrade; MARTINS JUNIOR, Francisco Luciano Castro. Ferramentas de acessibilidade web para pessoas com deficiência visual: uma revisão integrativa. Revista Principia, João Pessoa, v. 63, e9079, 2026. DOI: 10.18265/2447-9187a2026id9079.]`
+* Referência completa: `[SOUSA, Antônio Willas Sales; CHAVES, Maria Auxiliadora de Oliveira; OLIVEIRA, Adonias Caetano de; LIMA, Marcos Vinicius de Andrade; MARTINS JUNIOR, Francisco Luciano Castro. Revista Principia, João Pessoa, v. 63, e9079, 2026.]`
 * DOI ou URL: `[https://doi.org/10.18265/2447-9187a2026id9079]`
 * Base de origem: `[Portal de periódicos do IFPB (Revista Principia)]`
 * Leitor responsável: `[Rafael Yudi Tokunaga]`
